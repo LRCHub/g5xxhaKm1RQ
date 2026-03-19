@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Malibu Nights (Official Video)",
+  "base_artist": "LANY",
+  "createdAt": "2026-03-19T11:12:15.423898Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Malibu Nights",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/01_Malibu_Nights_LANY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Malibu Nights",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/02_Malibu_Nights_LANY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Malibu Nights",
+      "artist": "Eric Bellinger feat. Victoria Monét",
+      "has_synced": false,
+      "path": "select/03_Malibu_Nights_Eric_Bellinger_feat._Victoria_Monét.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Malibu Nights (feat. Victoria Monet)",
+      "artist": "Eric Bellinger",
+      "has_synced": false,
+      "path": "select/04_Malibu_Nights_(feat._Victoria_Monet)_Eric_Bellinger.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Malibu Nights",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/05_Malibu_Nights_LANY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Malibu Nights",
+      "artist": "Roxy Tones",
+      "has_synced": true,
+      "path": "select/06_Malibu_Nights_Roxy_Tones.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Malibu Nights",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/07_Malibu_Nights_LANY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Malibu Nights",
+      "artist": "Eric Bellinger",
+      "has_synced": true,
+      "path": "select/08_Malibu_Nights_Eric_Bellinger.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LANY - Malibu Nights (Official Video)",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/09_LANY_-_Malibu_Nights_(Official_Video)_LANY.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Malibu Nights (Official Video)",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/10_Malibu_Nights_(Official_Video)_LANY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "City Hall / I Believe / Malibu Nights",
+      "artist": "Tenacious D",
+      "has_synced": true,
+      "path": "select/11_City_Hall___I_Believe___Malibu_Nights_Tenacious_D.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "City Hall ⁄ I Believe ⁄ Malibu Nights",
+      "artist": "Tenacious D",
+      "has_synced": true,
+      "path": "select/12_City_Hall_⁄_I_Believe_⁄_Malibu_Nights_Tenacious_D.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "City Hall \u0000 I Believe \u0000 Malibu Nights",
+      "artist": "Tenacious D",
+      "has_synced": true,
+      "path": "select/13_City_Hall_\u0000_I_Believe_\u0000_Malibu_Nights_Tenacious_D.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Medley: City Hall / I Believe / Malibu Nights",
+      "artist": "Tenacious D",
+      "has_synced": false,
+      "path": "select/14_Medley__City_Hall___I_Believe___Malibu_Nights_Tenacious_D.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "City Hall/I Believe/Malibu Nights Medley",
+      "artist": "Tenacious D",
+      "has_synced": true,
+      "path": "select/15_City_Hall_I_Believe_Malibu_Nights_Medley_Tenacious_D.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Malibu Nights - live from The Forum",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/16_Malibu_Nights_-_live_from_The_Forum_LANY.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "City Hall / Malibu Nights",
+      "artist": "Tenacious D",
+      "has_synced": true,
+      "path": "select/17_City_Hall___Malibu_Nights_Tenacious_D.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "City Hall/I Believe/Malibu Nights Medley (Album Version)",
+      "artist": "Tenacious D",
+      "has_synced": true,
+      "path": "select/18_City_Hall_I_Believe_Malibu_Nights_Medley_(Album_Version)_Tenacious_D.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Malibu Nights",
+      "artist": "LANY",
+      "has_synced": false,
+      "path": "select/pl_01_Malibu_Nights_LANY.txt"
+    }
+  ]
+}
